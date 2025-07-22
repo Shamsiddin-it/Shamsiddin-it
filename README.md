@@ -7,7 +7,6 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Bron.tj** — a unified booking system for Tajikistan
 - 🧠 I’m learning and building projects with **Python, Django, DRF, Aiogram, SQLAlchemy**
 - 💬 Ask me about **Telegram bots**, **backend development**, or **automation**
 - 🌱 I’m currently diving deeper into **C#** and **.NET** development
@@ -38,20 +37,14 @@
 
 ---
 
-### 📌 Featured Projects
 
-- 🔗 [Bron.tj](https://github.com/Shamsiddin-it/bron.tj) — Booking system for restaurants, transport, education, and more
-- 🤖 [Quiz Telegram Bot](https://github.com/Shamsiddin-it/quiz-bot) — Bot to take tests and view statistics using aiogram + SQLAlchemy
-- 🛠 [RepairHouse](https://github.com/Shamsiddin-it/repairhouse-backend) — Backend system for finding house repair professionals
-
----
 
 ### 📫 Connect with Me
 
 <p>
-  <a href="https://t.me/shamsiddin_it"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/shamsiddinarbobzoda"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/shamsiddin-arbobzoda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:shamsiddin.arbobzoda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:samsiddinarbobov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
