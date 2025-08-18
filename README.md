@@ -9,7 +9,6 @@
 
 - 🧠 I’m learning and building projects with **Python, Django, DRF, Aiogram, SQLAlchemy**
 - 💬 Ask me about **Telegram bots**, **backend development**, or **automation**
-- 🌱 I’m currently diving deeper into **C#** and **.NET** development
 - ⚡ Fun fact: I love clean code and cool UIs
 
 ---
