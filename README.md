@@ -3,36 +3,6 @@
 <h3 align="center">🚀 Developer | 🧠 Learner | 🇹🇯 From Tajikistan</h3>
 
 
----
-
-### 🧑‍💻 About Me
-
-- 🧠 I’m learning and building projects with **Python, Django, DRF, Aiogram, SQLAlchemy**
-- 💬 Ask me about **Telegram bots**, **backend development**, or **automation**
-- ⚡ Fun fact: I love clean code and cool UIs
-
----
-
-### 🚀 Languages and Tools:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Aiogram-00BFFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shamsiddin-it&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shamsiddin-it&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
@@ -41,7 +11,6 @@
 ### 📫 Connect with Me
 
 <p>
-  <a href="https://t.me/shamsiddinarbobzoda"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/shamsiddin-arbobzoda-414333340/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:samsiddinarbobov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
